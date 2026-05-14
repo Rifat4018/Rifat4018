@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Rakibul Hasan Rifat</h1>
-<h3 align="center">🚀 AI Researcher | 💻 CSE Graduate | 🤖 Data Science & Machine Learning </h3>
+<h3 align="center">🚀 AI Researcher | 💻 CSE Graduate | 🤖 Data Science & Machine Learning  enthusiast</h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Engineer;Data+Science+Practitioner;Federated+Learning+Researcher;AI+Systems+Builder&center=true&width=520&height=45">

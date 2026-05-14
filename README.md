@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Rakibul Hasan Rifat</h1>
-<h3 align="center">🚀 AI Reseracher | 💻 CSE Graduate | 🤖 Data Science & Machine Learning </h3>
+<h3 align="center">🚀 AI Researcher | 💻 CSE Graduate | 🤖 Data Science & Machine Learning </h3>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Engineer;Data+Science+Practitioner;Federated+Learning+Researcher;AI+Systems+Builder&center=true&width=520&height=45">
@@ -68,8 +68,6 @@ To become an AI/ML engineer who builds practical, real-world intelligent systems
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rifat4018&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-
-## 🔥 GitHub Streak
 
 ## 🔥 GitHub Streak
 

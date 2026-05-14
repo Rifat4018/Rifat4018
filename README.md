@@ -71,8 +71,10 @@ To become an AI/ML engineer who builds practical, real-world intelligent systems
 
 ## 🔥 GitHub Streak
 
+## 🔥 GitHub Streak
+
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Rifat4018&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Rifat4018&theme=tokyonight&v=1"/>
 </p>
 
 ---
